@@ -21,7 +21,6 @@ Welcome to the **City Bank Management System** – a robust and comprehensive Ja
 - **PostgreSQL** (or any preferred relational database)
 
 ## 📂 Project Structure
-banking-systems/
 ![image](https://github.com/user-attachments/assets/338ce1f9-d3af-49c3-af27-2072f6715c51)
 ![image](https://github.com/user-attachments/assets/2559957e-3109-4a63-aafc-a5293ca462c7)
 
